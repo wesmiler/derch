@@ -1,9 +1,10 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "wesmiler/derch",
+    "description": "The Derch Laravel Framework.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "derch"
     ],
     "license": "MIT",
     "type": "project",
